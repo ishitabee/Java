@@ -8,13 +8,15 @@ public class factorialrecursion {
         int number = sc.nextInt();
         sc.close();
 
-        int factorial = 1;
+         int result = factorial(number);
+        System.out.println("Factorial of " + number + " is: " + result);
+    }   
 
-        for (int i = 1; i <= number; i++) {
-            factorial = factorial*i;
+    public static int factorial(int number) {
+        if (number == 0) {
+            return 1;
+        } else {
+            return number * factorial(number - 1);
         }
-
-        System.out.println("Factorial = " + factorial);
-        sc.close();
     }
 }
