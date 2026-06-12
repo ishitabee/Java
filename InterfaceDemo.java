@@ -28,7 +28,7 @@ class InterfaceDemo{
 		Vehicle myCar= new Car();
 		myCar.start();
 		myCar.sound();
-                Vehicle myBike= new Bike();
+        Vehicle myBike= new Bike();
 		myBike.start();
 		myBike.sound();
 
