@@ -1,5 +1,5 @@
-/*code to print a left aligned star pyramid using java that has the 
-   same number of stars as the number of rows in the pyramid. */  
+/*code to print a left aligned star pyramid using java that has 'n' number of stars
+in the n'th row. */  
 
    import java.util.Scanner;
 
