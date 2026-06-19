@@ -1,5 +1,6 @@
 //Selection Sort using Java.
 //Selection Sort algorithm finds the lowest value in an array and moves it to the front of the array.
+//Time complexity for this is n^2 
 
 import java.util.Scanner;
 
