@@ -17,14 +17,14 @@ public class HcfandLcm {
 
         int hcf = 1;
 
-        for (int i = 1; i <= a && i <= b; i++) {                      //factors of the 2 numbers
+        for (int i = 1; i <= a && i <= b; i++) {                   //factors of the 2 numbers
             if (a % i == 0 && b % i == 0) {
                 hcf = i;
             }
         }
 
         
-        int lcm = (a * b) / hcf;                                       //formula for LCM
+        int lcm = (a * b) / hcf;                                   //formula for LCM
 
         
         System.out.println("HCF = " + hcf);
