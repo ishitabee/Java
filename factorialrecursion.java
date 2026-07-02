@@ -1,4 +1,5 @@
-//factorial calculation using java to learn recursion 
+//factorial calculation using java to learn recursion.
+//Time complexity for factorial using recursion is O(n)
 
 import java.util.Scanner;
 public class factorialrecursion {
