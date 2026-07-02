@@ -1,5 +1,6 @@
 //Fibonnaci series using recursion
-
+//Time complexity can be different for different methods of solving.
+//Time complexity for this is O(2^n)
 //fibonacci series begins with 0 and 1 and proceeds to look like this: 0, 1, 1, 2, 3, 5, 8, 13, 21..
 
 import java.util.Scanner;
