@@ -1,4 +1,5 @@
-//Calculation sum of n numbers using recursion
+//Calculation sum of n numbers using recursion.
+//Time complexity for this will be O(n).
 
 import java.util.Scanner;
 public class SumRecursion {
