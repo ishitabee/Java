@@ -1,6 +1,6 @@
 // This Java program checks whether the given array forms an Arithmetic Progression.
-// An Arithmetic Progression (AP) is a sequence where the difference between
-// every pair of consecutive elements is the same.
+/* An Arithmetic Progression (AP) is a sequence where the difference between
+ every pair of consecutive elements is the same. */
 // Code given in Semester 3, DSA Lab.
 
 import java.util.Scanner;
